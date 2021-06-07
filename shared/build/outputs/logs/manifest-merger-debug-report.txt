@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+	package
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:11-47
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+	android:versionCode
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml:2:1-50
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		ADDED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from D:\Presentation\MyKMMApp\shared\src\androidMain\AndroidManifest.xml
