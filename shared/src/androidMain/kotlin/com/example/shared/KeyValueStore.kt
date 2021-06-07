@@ -1,4 +1,3 @@
-
 package com.example.shared
 
 import android.app.Activity
